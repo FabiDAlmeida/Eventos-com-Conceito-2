@@ -1,0 +1,8 @@
+{
+  "name": "Copy of EventArchitect Pro",
+  "description": "A high-end platform for event production and decoration, enabling professional architects and designers to manage multiple projects, generate AI-driven visual proposals, moodboards, and professional dossiers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
